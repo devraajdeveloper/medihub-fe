@@ -1,0 +1,25 @@
+.fas {
+    margin-bottom: 5%;
+  }
+  
+  .toggle {
+    margin-bottom: 5%;
+    .btn {
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+  
+    .btn:hover {
+      color: red;
+    }
+  }
+  .image {
+    margin-top: 35%;
+  }
+
+  input {
+    padding-inline: 10px;
+    width: 250px;
+  }
+
+  

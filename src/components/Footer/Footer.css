@@ -1,0 +1,18 @@
+.footer{
+    padding-block: 20px;
+    padding-inline: auto;
+    background: #3b3b3b;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    width: 100%;
+}
+.footer h1{
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(255, 255, 255);
+    display: grid;
+  grid-template: 1fr / 1fr;
+  place-items: center;
+}
+

@@ -1,0 +1,82 @@
+.brand{
+    background-image: url(../../assets/hero-bg.jpg);
+    background-color: rgba(110, 110, 110, 0.547);
+    background-size: cover;
+    height: 60vh;
+}
+
+.brand h1{
+    padding-left: 10%;
+    padding-top: 40px;
+    padding-bottom: 1%;
+    color: #2c4964;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.brand h2{
+    padding-left: 10%;
+    color: #2c4964;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.brand .button{
+    margin-left: 10%;
+    margin-top: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    background: #2969ff;
+    border: 2px solid;
+    border-radius: 24px;
+    padding: 7px 15px;
+}
+
+.brand .button:hover {
+    background: #1e4bbf;
+    color: white;
+    border-color: #1e4bbf;
+}
+
+.why-us{
+    margin-top: -200px;
+    
+}
+
+.col .content{
+    background: #1977cc;
+    color: white;
+    padding: 20px;
+    width: 70%;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.col h3{
+    font-size: 30px;
+    margin-bottom: 20px
+}
+.col .content .more-btn{
+    font-size: large;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    background: rgba(204, 204, 204, 0.312);
+    border-radius: 20px;
+    padding: 5px 10px;
+    transition: all 0.3s ease;
+}
+
+.col .content .more-btn:hover{
+    text-decoration: none;
+    font-size: 20px;
+    background: #ffffff;
+    color: #1977cc;
+}
+
+.col .col{
+    background: white;
+    
+}
